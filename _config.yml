@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Yufeng"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Yufeng Guoo"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yufeng Guo"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Developer and Cloud Advocate."
+  location         : "EST"
   email            :
   uri              :
   bitbucket        :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "yufengg"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "yufengg"
   vine             :
   weibo            :
   xing             :
